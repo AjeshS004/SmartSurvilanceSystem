@@ -15,9 +15,4 @@ A Python-based smart surveillance system using OpenCV that detects and recognize
 
 ---
 
-## 🚀 Setup Instructions
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/smart-surveillance.git
-cd smart-surveillance
