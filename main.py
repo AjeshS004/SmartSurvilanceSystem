@@ -8,10 +8,10 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.image import MIMEImage
 
 # Email Config
-EMAIL_SENDER = "youtajesh001@gmail.com"
-EMAIL_RECEIVER = 'dumpmail7g@gmail.com'
+EMAIL_SENDER = "sender_mail"
+EMAIL_RECEIVER = 'reciever_mail'
 EMAIL_SUBJECT = '⚠️ Surveillance Alert: Unknown Person Detected'
-APP_PASSWORD = 'fwkc tqpb laxi zalx'
+APP_PASSWORD = 'app_passwd'
 
 # Paths and Parameters
 KNOWN_FACES_DIR = "known_faces"
